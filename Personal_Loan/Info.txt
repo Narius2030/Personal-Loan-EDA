@@ -1,0 +1,7 @@
+Trong thư mục Source_code gồm 4 file source code: 
++ Menu.py: Chứa Form menu chính của bài
++ G4_Pre_Att_59BDNhan.py: Form con có chức năng cho người dùng chọn các thuộc tính phục vụ cho mục đích phân tích
++ Voice_Assist.py:  Trợ lý giọng nói và văn bản
++ G4_59BDNhan_Topic.py: chứa lớp EDA, lớp định nghĩa các phương thức phân tích dữ liệu EDA
+
+Tập dữ liệu thực nghiệm: G4_59BDNhan_UniversalBank.csv
